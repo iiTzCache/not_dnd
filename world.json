@@ -1,0 +1,43 @@
+{
+  "title": "Its_Complex",
+  "id": "itscomplex",
+  "system": "dnd5e",
+  "background": "the_crew_1_beta.png",
+  "joinTheme": "default",
+  "nextSession": "2024-01-10T01:00:00.000Z",
+  "description": "<p>Its complex ok… there are definitely no sex cults in this campaign</p>",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "2.4.1",
+  "lastPlayed": "Mon Jan 22 2024 17:20:08 GMT-0500 (Eastern Standard Time)",
+  "playtime": 30364,
+  "packs": [
+    {
+      "label": "Xanathars",
+      "type": "Item",
+      "name": "xanathars",
+      "path": "packs/xanathars",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Spells",
+      "type": "Item",
+      "name": "spells",
+      "path": "packs/spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
